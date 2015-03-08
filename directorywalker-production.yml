@@ -1,0 +1,7 @@
+catalogic:
+ volumeName: volumeNameValue
+ host: hostValue 
+ path: pathValue
+ logDetail: true
+ pageSize: 5000
+ depth: -1
