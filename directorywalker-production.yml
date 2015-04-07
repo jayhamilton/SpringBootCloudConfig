@@ -5,3 +5,4 @@ catalogic:
  logDetail: true
  pageSize: 5000
  depth: -1
+ training: microservices
