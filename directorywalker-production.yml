@@ -3,5 +3,5 @@ catalogic:
  host: hostValue 
  path: pathValue
  logDetail: true
- pageSize: 5000
+ pageSize: 898989
  depth: -1
